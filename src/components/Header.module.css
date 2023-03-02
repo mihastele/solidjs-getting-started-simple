@@ -1,0 +1,9 @@
+.heroimg {
+  display: inline-block;
+  height: 64px;
+  width: 64px;
+}
+
+.heroib {
+  display: inline-block;
+}
